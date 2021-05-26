@@ -1,0 +1,16 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "A simple instagram bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Sujal Goel",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "instagram-web-api": "^2.2.2",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
